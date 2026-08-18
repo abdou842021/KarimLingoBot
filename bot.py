@@ -1,11 +1,11 @@
-import requests
+وعimport requests
 from io import BytesIO
 from gtts import gTTS
 from deep_translator import GoogleTranslator
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = "YOUR_TOKEN"
+TOKEN = "8908406408:AAF3ocv-g_xSxgVRnJRMSzTncYj7hs2JOus"
 
 # الكلمات المفتاحية اللي غادي يفهمها البوت
 KEYWORDS = ["نطق", "شرح", "معنى", "translate", "pronounce", "؟"]
