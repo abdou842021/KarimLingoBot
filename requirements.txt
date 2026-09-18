@@ -1,8 +1,5 @@
-python-telegram-bot
-deep-translator
+
+python-telegram-bot==22.8
+groq
 edge-tts
-language-tool-python
-eng-to-ipa
-PyDictionary
-Pillow
-pytesseract
+Flask
